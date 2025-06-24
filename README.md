@@ -42,7 +42,7 @@ O projeto foi desenvolvido pela equipe da Evolutec, composta por quatro integran
 Embora cada membro tenha tido uma função principal, todos se ajudaram mutuamente durante o desenvolvimento, reforçando o trabalho em equipe e a cooperação.
 
 
-### 🚧 Execução do Projeto
+## 🚧 Execução do Projeto
 
 O desenvolvimento do nosso projeto foi realizado no NetBeans, utilizando a linguagem Java com interface gráfica via Swing. A proposta foi criar um sistema simples, porém funcional, que reunisse diferentes funcionalidades: uma tela de login, uma tela inicial, um jogo da velha e uma calculadora.
 
