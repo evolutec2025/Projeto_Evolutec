@@ -27,11 +27,11 @@ Durante o projeto, foram desenvolvidos:
 
 O projeto foi desenvolvido pela equipe da Volutec, composta por quatro integrantes comprometidos com o aprendizado e com a aplicação dos conceitos de Programação Orientada a Objetos.
 
-#### 👩 Ana Júlia Almeida
-	•	Responsável pelo design, pela tela de login e pela organização do repositório no GitHub.
-
 #### 👩 Joyciane Silva
-	•	Trabalhou junto com Ana Júlia no design e no desenvolvimento da tela de login, contribuindo com a lógica e a interface.
+	•	Responsável pelo design da tela de login, pela tela inical e pela planta do projeto.
+
+#### 👩 Ana Júlia 
+	•	Trabalhou junto com Joyciane no design, na organização do GitHub e tela inicial.
 
 #### 👨 Samuel Moura
 	•	Responsável pela implementação da calculadora básica, aplicando os conceitos de operações e interface gráfica.
