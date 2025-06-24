@@ -25,7 +25,7 @@ Durante o projeto, foram desenvolvidos:
 
 ### 👥 Sobre a Equipe
 
-O projeto foi desenvolvido pela equipe da Volutec, composta por quatro integrantes comprometidos com o aprendizado e com a aplicação dos conceitos de Programação Orientada a Objetos.
+O projeto foi desenvolvido pela equipe da Evolutec, composta por quatro integrantes comprometidos com o aprendizado e com a aplicação dos conceitos de Programação Orientada a Objetos.
 
 #### 👩 Joyciane Silva
 	•	Responsável pelo design da tela de login, pela tela inical e pela planta do projeto.
