@@ -1,1 +1,1 @@
-## Imagens, descrições, rabiscos de toda a construção do nosso projeto. 
+## Imagens, descrições e rabiscos de toda a construção do nosso projeto. 
